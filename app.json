@@ -1,0 +1,12 @@
+{
+  "name": "Monumental",
+  "displayName": "Monumental",
+  "expo": {
+    "name": "Monumental",
+    "slug": "Monumental",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
